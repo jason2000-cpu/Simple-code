@@ -1,0 +1,123 @@
+
+body{
+	text-align:center;
+	font-size:20px;
+	background:linear-gradient(18deg, purple,purple, purple, rebeccapurple, purple,purple, purple);
+	font-family: copper black;
+	background-size: cover;
+	
+	
+}
+h1 {
+	color:blue;
+    font-size-adjust: .5;
+	font-family: "Neon 2 News";
+
+		
+
+
+}
+
+textarea{
+ color: white;
+ border:none;
+ background:black;
+ border-radius: 12px;
+ font-family:"Neon 2 News";
+ font-size:30px;
+ text-align:center;
+}
+
+.container{
+	margin: 100px;
+	padding:0 80px 0 80px;
+	background:linear-gradient(18deg, purple,purple, purple, rebeccapurple, purple,purple, purple);
+	border-radius:0 50px 0 50px;
+
+	
+	
+	
+	}
+
+input{
+	font-size:20px;
+	border-radius: 10px;
+	
+	
+	
+}
+button{
+	background-color:blue;
+	color: gold;
+	font-size: 20px;
+	border-radius: 12px;
+	padding:0 30px 0 30px;
+	cursor:pointer;
+}
+button :active{
+	
+	background-color:gold;
+	color:blue;
+}
+footer{
+	text-align:center;
+	color:black;
+}
+hr{
+	color: blue
+	
+}
+
+nav{
+	color: white;
+	display: block;
+	background-color:black;
+	font-family: Forte;
+	display:table-cell;
+	margin-top:112px;
+	box-shadow: 20px;
+	
+
+	
+}
+
+th{
+	padding:0 70px 10px 50px;
+	
+
+
+}
+th:hover {
+	background-color:blue;
+	background-size:100%;
+	
+	margin-bottom: 50px;
+	margin-top: 50px;
+	
+	
+	
+}
+a {
+	color:white;
+	padding: 55px;
+	margin:  100px 0 0 80px;
+
+}
+.copyright {
+	font-family: monospace;
+	float: right; 
+	
+	
+}
+button,input,textarea {
+	outline:none;
+}
+footer {
+	color:  #fff;
+	background-color: #000;
+	height: 100px;
+	width: 100%;
+  float: left;
+	
+	
+}
